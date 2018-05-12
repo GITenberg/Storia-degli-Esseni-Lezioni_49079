@@ -1,4 +1,8 @@
 _repo: Storia-degli-Esseni-Lezioni_49079
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49079-h/images/cover.jpg
 creator:
   author:
     agent_name: Benamozegh, Elia
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45127
     wikipedia: http://en.wikipedia.org/wiki/Elijah_Benamozegh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49079#Storia-degli-Esseni-Lezioni
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2015-05-30'
 gutenberg_type: Text
